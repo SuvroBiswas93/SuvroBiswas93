@@ -1,96 +1,85 @@
 <!-- ===================== COVER ===================== -->
 
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=260&section=header&text=Suvro%20Biswas&fontSize=42&fontColor=ffffff&desc=Frontend%20Developer&descAlignY=65&descSize=24" /> </p>
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=260&section=header&text=Suvro%20Biswas&fontSize=42&fontColor=ffffff&desc=Frontend%20Developer&descAlignY=65&descSize=24" />
+</p>
 
 <p align="center">
   👋 <strong>Hi, I’m Suvro Biswas</strong><br>
-  💻 A passionate <strong>Frontend Developer</strong> crafting clean, modern, and performant web experiences.<br>
-  
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,tailwind,nodejs,express,mongodb,firebase&perline=6" />
+  💻 A passionate <strong>Frontend Developer</strong> crafting clean, modern, and performant web experiences.
 </p>
 
 ---
 
-## 📊 Current GitHub Stats
+## 🧑‍💻 About Me
+
+I’m a passionate Frontend Developer focused on building modern, responsive, and high-performance web applications.  
+I enjoy transforming ideas into clean, user-friendly interfaces using React and modern UI tools.  
+I’m constantly learning new technologies and best practices to improve scalability and user experience.  
+My goal is to grow as a professional Frontend Engineer and contribute to impactful real-world projects.
+
+---
+
+## 🔥 Current Activities
+
+- 🌱 Exploring **Next.js** and modern React architecture  
+- 🏗️ Working on a **tourism & travel website**  
+- ⚙️ Improving performance optimization and reusable UI patterns  
+- 📚 Learning advanced JavaScript and frontend system design  
+
+---
+
+## 🛠️ Skills
+
+### 🎨 Frontend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&perline=6" />
+</p>
+
+### ⚙️ Backend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase&perline=6" />
+</p>
+
+### 🧰 Tools & Platforms
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,netlify&perline=6" />
+</p>
+
+---
+
+## 📈 GitHub Stats
 
 <p align="center">
-  <!-- Followers -->
+  <img src="https://github-readme-stats.vercel.app/api?username=SuvroBiswas93&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SuvroBiswas93&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuvroBiswas93&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🔗 Connect With Me
+
+<p align="center">
   <a href="https://github.com/SuvroBiswas93" target="_blank">
-    <img src="https://img.shields.io/github/followers/SuvroBiswas93?style=for-the-badge&color=blue" alt="Followers"/>
+    <img src="https://img.shields.io/badge/GitHub-SuvroBiswas93-black?style=for-the-badge&logo=github" />
   </a>
-
-  <!-- Public Repositories -->
-  <a href="https://github.com/SuvroBiswas93?tab=repositories" target="_blank">
-    <img src="https://img.shields.io/github/public-repos/SuvroBiswas93?style=for-the-badge&color=green" alt="Public Repos"/>
+  <a href="https://www.linkedin.com/in/the-suvro-biswas/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Suvro%20Biswas-blue?style=for-the-badge&logo=linkedin" />
   </a>
-
-   <!-- Top Repo Stars -->
-  <a href="https://github.com/SuvroBiswas93/react-portfolio" target="_blank">
-    <img src="https://img.shields.io/github/stars/SuvroBiswas93/react-portfolio?style=for-the-badge&color=yellow" alt="Stars"/>
+  <a href="https://biswas-suvro-portfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-0ea5e9?style=for-the-badge" />
   </a>
-
-  <!-- Top Repo Forks -->
-  <a href="https://github.com/SuvroBiswas93/react-portfolio" target="_blank">
-    <img src="https://img.shields.io/github/forks/SuvroBiswas93/react-portfolio?style=for-the-badge&color=orange" alt="Forks"/>
+  <a href="mailto:shuvo.249963@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-orange?style=for-the-badge" />
   </a>
 </p>
-
-<p align="center">
-  <!-- Contributions (link to profile) -->
-  <a href="https://github.com/SuvroBiswas93" target="_blank">
-    <img src="https://img.shields.io/badge/Contributions-Check%20Profile-brightgreen?style=for-the-badge" alt="Contributions"/>
-  </a>
-</p>
-
-
-
-
----
-
-## 🚀 Technologies I Know
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb,firebase,git,github,vercel,netlify&perline=6" />
-</p>
-
-
----
-
-## 🤝 Reach Me Out
-
-Feel free to contact me 😄
-<br><br>
-
-<a href="https://www.linkedin.com/in/the-suvro-biswas/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-SuvroBiswas-blue" alt="LinkedIn">
-</a> 
-<a href="https://www.facebook.com/suvro.biswas.56" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-SuvroBiswas-1877F2" alt="Facebook">
-</a> 
-<a href="https://biswas-suvro-portfolio.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-biswas_suvro-0ea5e9" alt="Portfolio">
-</a>
-
-<a href="mailto:shuvo.249963@gmail.com">
-  <img src="https://img.shields.io/badge/Email-shuvo.249963@gmail.com-orange" alt="Email">
-</a>
-
-
-
----
-
-## 📌 Current Overview
-
-* 🔭 Building **modern Fullstack applications** with **React, Node.js, Express, and MongoDB**  
-* 🎨 Passionate about creating **clean UI, smooth UX, and high-performance web apps**  
-* 🌱 Continuously improving **JavaScript fundamentals, advanced React patterns, and system design skills**  
-* 🚀 Aspiring to become a **Frontend Engineer / Fullstack Developer** in a professional environment  
-* 💡 Enjoy tackling **real-world problems** and developing **production-ready projects**  
-* 📚 Open to **learning, collaboration, and contributing to impactful projects**  
 
 ---
 
