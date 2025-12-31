@@ -39,8 +39,9 @@ Feel free to contact me 😄
   <img src="https://img.shields.io/badge/Facebook-SuvroBiswas-1877F2" alt="Facebook">
 </a> 
 <a href="https://biswas-suvro-portfolio.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-biswas-suvro-0ea5e9" alt="Portfolio">
-</a> 
+  <img src="https://img.shields.io/badge/Portfolio-biswas_suvro-0ea5e9" alt="Portfolio">
+</a>
+
 <a href="mailto:shuvo.249963@gmail.com">
   <img src="https://img.shields.io/badge/Email-shuvo.249963@gmail.com-orange" alt="Email">
 </a>
