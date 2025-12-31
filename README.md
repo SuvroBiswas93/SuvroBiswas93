@@ -42,10 +42,15 @@
 </p>
 
 <p align="center">
-  <!-- Optional Total Repositories Badge -->
-  <img src="https://img.shields.io/badge/Total%20Repositories-15-blue" alt="Total Repositories"/>
-  <!-- Optional Contribution Badge -->
-  <img src="https://img.shields.io/badge/Contributions-200-green" alt="Contributions"/>
+  <!-- Total Repositories (Dynamic) -->
+  <a href="https://github.com/SuvroBiswas93?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/github/repos/SuvroBiswas93?style=for-the-badge&color=blue" alt="Total Repositories"/>
+  </a>
+
+  <!-- Total Contributions (Dynamic) -->
+  <a href="https://github.com/SuvroBiswas93" target="_blank">
+    <img src="https://img.shields.io/github/commit-activity/m/SuvroBiswas93?style=for-the-badge&color=green" alt="Contributions"/>
+  </a>
 </p>
 
 
