@@ -17,8 +17,6 @@
 
 ## 📊 Current GitHub Stats
 
-## 📊 Current GitHub Stats
-
 <p align="center">
   <!-- Total GitHub stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=SuvroBiswas93&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="SuvroBiswas93 GitHub Stats" width="48%" />
