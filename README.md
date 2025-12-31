@@ -1,8 +1,9 @@
 <!-- ===================== COVER ===================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=260&section=header&text=Hi%20I%27m%20Suvro%20Biswas&fontSize=42&fontColor=ffffff&desc=Frontend%20Developer&descAlignY=65" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=260&section=header&text=Hi%20I%27m%20Suvro%20Biswas&fontSize=42&fontColor=ffffff&desc=Frontend%20Developer&descAlignY=65&descSize=24" />
 </p>
+
 <p align="center">
   👋 Hi, I’m **Suvro Biswas** – a passionate **Frontend Developer** crafting clean and modern web experiences.
 </p>
