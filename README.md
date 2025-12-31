@@ -38,8 +38,9 @@
 </a>
 
 <a href="https://www.facebook.com/suvro.biswas.56" target="_blank">
-  <img src="https://skillicons.dev/icons?i=facebook" alt="Facebook" width="48" />
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/facebook.svg" alt="Facebook" width="48" />
 </a>
+
 
 <a href="https://biswas-suvro-portfolio.vercel.app/" target="_blank">
   <img src="https://skillicons.dev/icons?i=vercel" alt="Portfolio" width="48" />
