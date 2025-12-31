@@ -5,8 +5,11 @@
 </p>
 
 <p align="center">
-  👋 Hi, I’m **Suvro Biswas** – a passionate **Frontend Developer** crafting clean and modern web experiences.
+  👋 <strong>Hi, I’m Suvro Biswas</strong><br>
+  💻 A passionate <strong>Frontend Developer</strong> crafting clean, modern, and performant web experiences.<br>
+  🎨 Specializing in <strong>React, Next.js, Tailwind CSS</strong> and building production-ready applications.
 </p>
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,react,tailwind,nodejs,express,mongodb,firebase&perline=6" />
 </p>
