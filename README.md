@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,tailwind,nodejs,express,mongodb,firebase&perline=6" />
+  <img src="https://skillicons.dev/icons?i=react,tailwind,js,nodejs,express,mongodb,firebase&perline=6" />
 </p>
 
 ---
@@ -15,10 +15,6 @@
 ![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SuvroBiswas93&show_icons=true&theme=tokyonight&hide_border=true)
 
 ![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SuvroBiswas93&layout=compact&theme=tokyonight&hide_border=true)
-
-
-
-
 
 ---
 
