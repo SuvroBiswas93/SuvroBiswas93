@@ -18,17 +18,20 @@
 ## 📊 Current GitHub Stats
 
 <p align="center">
-  <!-- Total GitHub stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=SuvroBiswas93&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="SuvroBiswas93 GitHub Stats" width="48%" />
-  
-  <!-- Top languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuvroBiswas93&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="SuvroBiswas93 Top Languages" width="48%" />
+  <a href="https://github.com/SuvroBiswas93" target="_blank">
+    <img src="https://img.shields.io/github/followers/SuvroBiswas93?style=for-the-badge" alt="Followers"/>
+  </a>
+  <a href="https://github.com/SuvroBiswas93?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/github/repo-size/SuvroBiswas93?style=for-the-badge" alt="Repo Size"/>
+  </a>
+  <a href="https://github.com/SuvroBiswas93?tab=stars" target="_blank">
+    <img src="https://img.shields.io/github/stars/SuvroBiswas93?style=for-the-badge" alt="Stars"/>
+  </a>
+  <a href="https://github.com/SuvroBiswas93?tab=followers" target="_blank">
+    <img src="https://img.shields.io/github/forks/SuvroBiswas93?style=for-the-badge" alt="Forks"/>
+  </a>
 </p>
 
-<p align="center">
-  <!-- GitHub Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SuvroBiswas93&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="90%" />
-</p>
 
 
 ---
