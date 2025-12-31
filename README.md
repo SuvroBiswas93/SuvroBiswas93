@@ -20,7 +20,7 @@
 
 ## 🚀 Technologies I Know
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb,firebase,git,github,vercel,netlify&perline=6" />
 </p>
 
