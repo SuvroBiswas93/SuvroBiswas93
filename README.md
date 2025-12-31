@@ -22,22 +22,6 @@
     height="180"
   />
 </p>
-<p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=SuvroBiswas93&theme=tokyonight&hide_border=true" 
-  />
-</p>
-<p align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=SuvroBiswas93&theme=tokyo-night&hide_border=true" 
-  />
-</p>
-<p align="center">
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=SuvroBiswas93&theme=tokyonight&no-frame=true&row=1&column=6" 
-  />
-</p>
-
 
 ---
 
