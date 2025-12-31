@@ -52,11 +52,12 @@ Feel free to contact me 😄
 
 ## 📌 Current Overview
 
-* 🔭 Working on **modern frontend applications** with React & Next.js
-* 🎨 Passionate about **clean UI, smooth UX & performance optimization**
-* 🌱 Improving **JavaScript logic, advanced React patterns & system design**
-* 🚀 Goal: Become a **high-impact Frontend Engineer**
-* 💡 Love building **real-world, production-ready projects**
+* 🔭 Building **modern Fullstack applications** with **React, Node.js, Express, and MongoDB**  
+* 🎨 Passionate about creating **clean UI, smooth UX, and high-performance web apps**  
+* 🌱 Continuously improving **JavaScript fundamentals, advanced React patterns, and system design skills**  
+* 🚀 Aspiring to become a **Frontend Engineer / Fullstack Developer** in a professional environment  
+* 💡 Enjoy tackling **real-world problems** and developing **production-ready projects**  
+* 📚 Open to **learning, collaboration, and contributing to impactful projects**  
 
 ---
 
