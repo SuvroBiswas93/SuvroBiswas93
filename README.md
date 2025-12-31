@@ -17,39 +17,32 @@
 
 ## 📊 Current GitHub Stats
 
-## 📊 GitHub Stats
-
 <p align="center">
   <!-- Followers -->
   <a href="https://github.com/SuvroBiswas93" target="_blank">
     <img src="https://img.shields.io/github/followers/SuvroBiswas93?style=for-the-badge&color=blue" alt="Followers"/>
   </a>
 
-  <!-- Total Repositories -->
+  <!-- Public Repositories -->
   <a href="https://github.com/SuvroBiswas93?tab=repositories" target="_blank">
-    <img src="https://img.shields.io/github/repo-size/SuvroBiswas93?style=for-the-badge&color=green" alt="Repo Size"/>
+    <img src="https://img.shields.io/github/public-repos/SuvroBiswas93?style=for-the-badge&color=green" alt="Public Repos"/>
   </a>
 
-  <!-- Stars -->
-  <a href="https://github.com/SuvroBiswas93?tab=stars" target="_blank">
-    <img src="https://img.shields.io/github/stars/SuvroBiswas93?style=for-the-badge&color=yellow" alt="Stars"/>
+  <!-- Top Repo Stars -->
+  <a href="https://github.com/SuvroBiswas93/react-portfolio" target="_blank">
+    <img src="https://img.shields.io/github/stars/SuvroBiswas93/react-portfolio?style=for-the-badge&color=yellow" alt="Stars"/>
   </a>
 
-  <!-- Forks -->
-  <a href="https://github.com/SuvroBiswas93?tab=forks" target="_blank">
-    <img src="https://img.shields.io/github/forks/SuvroBiswas93?style=for-the-badge&color=orange" alt="Forks"/>
+  <!-- Top Repo Forks -->
+  <a href="https://github.com/SuvroBiswas93/react-portfolio" target="_blank">
+    <img src="https://img.shields.io/github/forks/SuvroBiswas93/react-portfolio?style=for-the-badge&color=orange" alt="Forks"/>
   </a>
 </p>
 
 <p align="center">
-  <!-- Total Repositories (Dynamic) -->
-  <a href="https://github.com/SuvroBiswas93?tab=repositories" target="_blank">
-    <img src="https://img.shields.io/github/repos/SuvroBiswas93?style=for-the-badge&color=blue" alt="Total Repositories"/>
-  </a>
-
-  <!-- Total Contributions (Dynamic) -->
+  <!-- Contributions (link to profile) -->
   <a href="https://github.com/SuvroBiswas93" target="_blank">
-    <img src="https://img.shields.io/github/commit-activity/m/SuvroBiswas93?style=for-the-badge&color=green" alt="Contributions"/>
+    <img src="https://img.shields.io/badge/Contributions-Check%20Profile-brightgreen?style=for-the-badge" alt="Contributions"/>
   </a>
 </p>
 
