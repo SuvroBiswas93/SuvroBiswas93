@@ -13,18 +13,13 @@
 ## 📊 Current GitHub Stats
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=SuvroBiswas93&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
-    width="90%"
-  />
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SuvroBiswas93&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SuvroBiswas93&layout=compact&theme=tokyonight&hide_border=true)
+
 </p>
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuvroBiswas93&layout=compact&theme=tokyonight&hide_border=true"
-    width="90%"
-  />
-</p>
 
 
 
