@@ -1,10 +1,6 @@
 <!-- ===================== COVER ===================== -->
 
-<p align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=260&section=header&text=Suvro%20Biswas&fontSize=42&fontColor=ffffff&desc=Frontend%20Developer&descAlignY=50&descSize=28" 
-  />
-</p>
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=260&section=header&text=Suvro%20Biswas&fontSize=42&fontColor=ffffff&desc=Frontend%20Developer&descAlignY=65&descSize=24" /> </p>
 
 
 <p align="center">
