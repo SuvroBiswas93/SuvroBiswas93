@@ -17,20 +17,37 @@
 
 ## 📊 Current GitHub Stats
 
+## 📊 GitHub Stats
+
 <p align="center">
+  <!-- Followers -->
   <a href="https://github.com/SuvroBiswas93" target="_blank">
-    <img src="https://img.shields.io/github/followers/SuvroBiswas93?style=for-the-badge" alt="Followers"/>
+    <img src="https://img.shields.io/github/followers/SuvroBiswas93?style=for-the-badge&color=blue" alt="Followers"/>
   </a>
+
+  <!-- Total Repositories -->
   <a href="https://github.com/SuvroBiswas93?tab=repositories" target="_blank">
-    <img src="https://img.shields.io/github/repo-size/SuvroBiswas93?style=for-the-badge" alt="Repo Size"/>
+    <img src="https://img.shields.io/github/repo-size/SuvroBiswas93?style=for-the-badge&color=green" alt="Repo Size"/>
   </a>
+
+  <!-- Stars -->
   <a href="https://github.com/SuvroBiswas93?tab=stars" target="_blank">
-    <img src="https://img.shields.io/github/stars/SuvroBiswas93?style=for-the-badge" alt="Stars"/>
+    <img src="https://img.shields.io/github/stars/SuvroBiswas93?style=for-the-badge&color=yellow" alt="Stars"/>
   </a>
-  <a href="https://github.com/SuvroBiswas93?tab=followers" target="_blank">
-    <img src="https://img.shields.io/github/forks/SuvroBiswas93?style=for-the-badge" alt="Forks"/>
+
+  <!-- Forks -->
+  <a href="https://github.com/SuvroBiswas93?tab=forks" target="_blank">
+    <img src="https://img.shields.io/github/forks/SuvroBiswas93?style=for-the-badge&color=orange" alt="Forks"/>
   </a>
 </p>
+
+<p align="center">
+  <!-- Optional Total Repositories Badge -->
+  <img src="https://img.shields.io/badge/Total%20Repositories-15-blue" alt="Total Repositories"/>
+  <!-- Optional Contribution Badge -->
+  <img src="https://img.shields.io/badge/Contributions-200-green" alt="Contributions"/>
+</p>
+
 
 
 
