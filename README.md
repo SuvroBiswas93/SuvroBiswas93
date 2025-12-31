@@ -25,16 +25,30 @@
 ## 🚀 Technologies I Know
 
 <p align="center">
-  <em>Technologies section intentionally kept clean.</em>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb,firebase,git,github,vercel,netlify&perline=6" />
 </p>
+
 
 ---
 
 ## 🤝 Reach Me Out
 
-<p align="center">
-  <em>Social links section intentionally kept minimal.</em>
-</p>
+<a href="https://www.linkedin.com/in/the-suvro-biswas/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="48" />
+</a>
+
+<a href="https://www.facebook.com/suvro.biswas.56" target="_blank">
+  <img src="https://skillicons.dev/icons?i=facebook" alt="Facebook" width="48" />
+</a>
+
+<a href="https://biswas-suvro-portfolio.vercel.app/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=vercel" alt="Portfolio" width="48" />
+</a>
+
+<a href="mailto:shuvo.249963@gmail.com" target="_blank">
+  <img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="48" />
+</a>
+
 
 ---
 
