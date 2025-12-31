@@ -22,8 +22,8 @@ My goal is to grow as a professional Frontend Engineer and contribute to impactf
 
 ## 🔥 Current Activities
 
-- 🌱 Exploring **Next.js** and modern React architecture  
-- 🏗️ Working on a **tourism & travel website**  
+- 🌱 Exploring **Next.js**, **Node.js** , **Express.js** and modern React architecture  
+- 🏗️ Working on a **Portfolio** 
 - ⚙️ Improving performance optimization and reusable UI patterns  
 - 📚 Learning advanced JavaScript and frontend system design  
 
@@ -66,10 +66,6 @@ My goal is to grow as a professional Frontend Engineer and contribute to impactf
 
 ## 🔗 Connect With Me
 
-<p align="center">
-  <a href="https://github.com/SuvroBiswas93" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-SuvroBiswas93-black?style=for-the-badge&logo=github" />
-  </a>
   <a href="https://www.linkedin.com/in/the-suvro-biswas/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Suvro%20Biswas-blue?style=for-the-badge&logo=linkedin" />
   </a>
