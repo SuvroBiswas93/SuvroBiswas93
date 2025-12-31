@@ -14,14 +14,15 @@
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=SuvroBiswas93&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" 
-    height="180"
+    src="https://github-readme-stats.vercel.app/api?username=SuvroBiswas93&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+    width="48%"
   />
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuvroBiswas93&layout=compact&theme=tokyonight&hide_border=true" 
-    height="180"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuvroBiswas93&layout=compact&theme=tokyonight&hide_border=true"
+    width="48%"
   />
 </p>
+
 
 ---
 
