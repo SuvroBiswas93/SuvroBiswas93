@@ -13,8 +13,31 @@
 ## 📊 Current GitHub Stats
 
 <p align="center">
-  <em>Stats will appear here automatically once the GitHub username is detected correctly.</em>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=SuvroBiswas93&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" 
+    height="180"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuvroBiswas93&layout=compact&theme=tokyonight&hide_border=true" 
+    height="180"
+  />
 </p>
+<p align="center">
+  <img 
+    src="https://streak-stats.demolab.com?user=SuvroBiswas93&theme=tokyonight&hide_border=true" 
+  />
+</p>
+<p align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=SuvroBiswas93&theme=tokyo-night&hide_border=true" 
+  />
+</p>
+<p align="center">
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=SuvroBiswas93&theme=tokyonight&no-frame=true&row=1&column=6" 
+  />
+</p>
+
 
 ---
 
