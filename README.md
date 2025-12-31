@@ -29,22 +29,22 @@
 
 ## 🤝 Reach Me Out
 
+Feel free to contact me 😄
+<br><br>
+
 <a href="https://www.linkedin.com/in/the-suvro-biswas/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="48" />
-</a>
-
+  <img src="https://img.shields.io/badge/LinkedIn-SuvroBiswas-blue" alt="LinkedIn">
+</a> 
 <a href="https://www.facebook.com/suvro.biswas.56" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/facebook.svg" alt="Facebook" width="48" />
-</a>
-
-
+  <img src="https://img.shields.io/badge/Facebook-SuvroBiswas-1877F2" alt="Facebook">
+</a> 
 <a href="https://biswas-suvro-portfolio.vercel.app/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=vercel" alt="Portfolio" width="48" />
+  <img src="https://img.shields.io/badge/Portfolio-biswas-suvro-0ea5e9" alt="Portfolio">
+</a> 
+<a href="mailto:shuvo.249963@gmail.com">
+  <img src="https://img.shields.io/badge/Email-shuvo.249963@gmail.com-orange" alt="Email">
 </a>
 
-<a href="mailto:shuvo.249963@gmail.com" target="_blank">
-  <img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="48" />
-</a>
 
 
 ---
