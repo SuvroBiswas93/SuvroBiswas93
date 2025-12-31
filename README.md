@@ -28,7 +28,7 @@
     <img src="https://img.shields.io/github/public-repos/SuvroBiswas93?style=for-the-badge&color=green" alt="Public Repos"/>
   </a>
 
-  <!-- Top Repo Stars -->
+   <!-- Top Repo Stars -->
   <a href="https://github.com/SuvroBiswas93/react-portfolio" target="_blank">
     <img src="https://img.shields.io/github/stars/SuvroBiswas93/react-portfolio?style=for-the-badge&color=yellow" alt="Stars"/>
   </a>
