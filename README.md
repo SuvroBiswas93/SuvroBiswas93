@@ -1,13 +1,13 @@
 <!-- ===================== COVER ===================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=260&section=header&text=Hi%20I%27m%20Suvro%20Biswas&fontSize=42&fontColor=ffffff&desc=Frontend%20Developer&descAlignY=65&descSize=24" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=260&section=header&text=Suvro%20Biswas&fontSize=42&fontColor=ffffff&desc=Frontend%20Developer&descAlignY=65&descSize=24" />
 </p>
 
 <p align="center">
   👋 <strong>Hi, I’m Suvro Biswas</strong><br>
   💻 A passionate <strong>Frontend Developer</strong> crafting clean, modern, and performant web experiences.<br>
-  🎨 Specializing in <strong>React, Next.js, Tailwind CSS</strong> and building production-ready applications.
+  
 </p>
 
 <p align="center">
