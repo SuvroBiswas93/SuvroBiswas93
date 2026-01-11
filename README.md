@@ -6,9 +6,44 @@
 
 
 <p align="center">
-  👋 <strong>Hi, I’m Suvro Biswas</strong><br>
+  👋 <strong>Hi, I’m <span id="typewriter"></span></strong><br>
   💻 A passionate <strong>Frontend Developer</strong> crafting clean, modern, and performant web experiences.
 </p>
+
+<script>
+const words = ["Suvro Biswas", "Frontend Developer", "React Enthusiast"];
+let i = 0, j = 0;
+let currentWord = '';
+let isDeleting = false;
+const speed = 150;
+
+function typeWriterLoop() {
+  const typewriter = document.getElementById("typewriter");
+  if (!isDeleting && j < words[i].length) {
+    currentWord += words[i][j];
+    j++;
+  } else if (isDeleting && j > 0) {
+    currentWord = currentWord.slice(0, -1);
+    j--;
+  }
+
+  typewriter.innerHTML = currentWord;
+
+  if (!isDeleting && j === words[i].length) {
+    isDeleting = true;
+    setTimeout(typeWriterLoop, 1000); // pause before deleting
+  } else if (isDeleting && j === 0) {
+    isDeleting = false;
+    i = (i + 1) % words.length;
+    setTimeout(typeWriterLoop, 500);
+  } else {
+    setTimeout(typeWriterLoop, speed);
+  }
+}
+
+window.onload = typeWriterLoop;
+</script>
+
 
 ---
 
