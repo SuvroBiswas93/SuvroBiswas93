@@ -1,7 +1,7 @@
 <!-- ===================== COVER ===================== -->
 
 <p align="center">
-  <img src="/mnt/data/A_digital_illustration_serves_as_a_cover_image_for.png" alt="Suvro Biswas - Frontend Developer Cover" />
+  <img src="[/mnt/data/A_digital_illustration_serves_as_a_cover_image_for.png](https://chatgpt.com/backend-api/estuary/content?id=file_0000000070287206b9ec058048a64c8d&ts=491147&p=fs&cid=1&sig=1467161b8b8e11e96e27687a74f117a4f8ce9c192cc0ad94962266d0f0ef0df9&v=0)" alt="Suvro Biswas - Frontend Developer Cover" />
 </p>
 
 <p align="center">
