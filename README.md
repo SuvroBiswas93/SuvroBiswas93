@@ -1,7 +1,7 @@
 <!-- ===================== COVER ===================== -->
 
 <p align="center">
-  <img src="https://sandbox:/mnt/data/A_digital_illustration_serves_as_a_personal_promot.png" alt="Suvro Biswas - Frontend Developer Cover" />
+  <img src="[https://sandbox:/mnt/data/A_digital_illustration_serves_as_a_personal_promot.png](https://res.cloudinary.com/dt2pe0van/image/upload/v1768133805/github-banner_qqjcqs.png)" alt="Suvro Biswas - Frontend Developer Cover" />
 </p>
 
 
