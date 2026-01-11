@@ -1,7 +1,7 @@
 <!-- ===================== COVER ===================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=260&section=header&text=Suvro%20Biswas&fontSize=42&fontColor=ffffff&desc=Frontend%20Developer&descAlignY=65&descSize=24" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0ea5e9&height=260&section=header&text=Suvro%20Biswas&fontSize=42&fontColor=ffffff&desc=Frontend%20Developer&descSize=24&descAlignY=65&image=https://cdn-icons-png.flaticon.com/512/1051/1051277.png" />
 </p>
 
 <p align="center">
