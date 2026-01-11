@@ -6,7 +6,7 @@
 
 
 <p align="center">
-  👋 <strong>
+  <strong>
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=0ea5e9&center=true&vCenter=true&width=600&lines=Hi,+I%E2%80%99m+Suvro+Biswas;Frontend+Developer;Crafting+clean,+modern,+and+performant+web+experiences" />
   </strong>
 </p>
