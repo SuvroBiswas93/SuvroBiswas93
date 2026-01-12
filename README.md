@@ -59,6 +59,7 @@ My goal is to grow as a professional Frontend Engineer and contribute to impactf
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SuvroBiswas93&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
+>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SuvroBiswas93&theme=tokyonight&hide_border=true" />
