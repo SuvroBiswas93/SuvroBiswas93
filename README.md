@@ -29,7 +29,7 @@ My goal is to grow as a professional Frontend Engineer and contribute to impactf
 ## 🔥 Current Activities
 
 - 🌱 Exploring **Next.js**, **Node.js** , **Express.js** and modern React architecture  
-- 🏗️ Working on a **Portfolio** 
+- 🏗️ Working on a **Basic Next.js Project** 
 - ⚙️ Improving performance optimization and reusable UI patterns  
 - 📚 Learning advanced JavaScript and frontend system design  
 
