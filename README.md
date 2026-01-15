@@ -19,7 +19,7 @@
 
 ## 🧑‍💻 About Me
 
-I’m a passionate Frontend Developer focused on building modern, responsive, and high-performance web applications.  
+I’m a passionate Frontend Web Developer focused on building modern, responsive, and high-performance web applications.  
 I enjoy transforming ideas into clean, user-friendly interfaces using React and modern UI tools.  
 I’m constantly learning new technologies and best practices to improve scalability and user experience.  
 My goal is to grow as a professional Frontend Engineer and contribute to impactful real-world projects.
