@@ -7,7 +7,7 @@
 
 <p align="center">
    <strong>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=0ea5e9&center=true&vCenter=true&width=600&lines=Hi,+I'm+Suvro+Biswas;Frontend+Developer;Building+fast,+responsive+web+apps" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=0ea5e9&center=true&vCenter=true&width=600&lines=Hi,+I'm+Suvro+Biswas;Frontend+Web+Developer;Building+fast,+responsive+web+apps" />
   </strong>
 </p>
 
