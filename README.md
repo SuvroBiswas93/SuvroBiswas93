@@ -1,7 +1,7 @@
 <!-- ===================== COVER ===================== -->
 
 <p align="center">
-  <img src="https://res.cloudinary.com/dt2pe0van/image/upload/v1768133805/github-banner_qqjcqs.png" alt="Suvro Biswas - Frontend Developer Cover" />
+  <img src="https://res.cloudinary.com/dt2pe0van/image/upload/v1768734571/git-cover_cci1uu.png" alt="Suvro Biswas - Frontend Developer Cover" />
 </p>
 
 
