@@ -39,7 +39,7 @@ My goal is to grow as a professional Frontend Engineer and contribute to impactf
 
 ### 🎨 Frontend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&perline=6" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind&perline=6" />
 </p>
 
 ### ⚙️ Backend
