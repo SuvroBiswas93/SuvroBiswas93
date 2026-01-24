@@ -12,8 +12,6 @@
 </p>
 
 
-![](https://komarev.com/ghpvc/?username=SuvroBiswas93&color=18A558&style=for-the-badge)
-
 
 ---
 
@@ -23,6 +21,8 @@ I’m a passionate Frontend Web Developer focused on building modern, responsive
 I enjoy transforming ideas into clean, user-friendly interfaces using React and modern UI tools.  
 I’m constantly learning new technologies and best practices to improve scalability and user experience.  
 My goal is to grow as a professional Frontend Engineer and contribute to impactful real-world projects.
+
+![](https://komarev.com/ghpvc/?username=SuvroBiswas93&color=18A558&style=for-the-badge)
 
 ---
 
