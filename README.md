@@ -63,7 +63,7 @@ My goal is to grow as a professional Frontend Engineer and contribute to impactf
 <p align="left">
   <a href="https://github.com/SuvroBiswas93" style="display:flex; align-items: center; border:1px solid red;">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SuvroBiswas93&theme=blueberry" alt="Suvro Biswas's GitHub Contribution" width="65%"/> 
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuvroBiswas93&layout=compact&theme=tokyonight&hide_border=true" alt="Suvro Biswas's GitHub Contribution" width="31.8%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuvroBiswas93&layout=compact&theme=tokyonight&hide_border=true" alt="Suvro Biswas's GitHub Contribution" width="35%" />
   </a>
 </p>
 
