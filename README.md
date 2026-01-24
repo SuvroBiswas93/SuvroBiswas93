@@ -62,16 +62,14 @@ My goal is to grow as a professional Frontend Engineer and contribute to impactf
 
 <p align="left">
   <a href="https://github.com/SuvroBiswas93" style="display:flex; align-items: center; border:1px solid red;">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SuvroBiswas93&theme=blueberry" alt="Sifat's GitHub Contribution" width="65%"/>  
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SuvroBiswas93&theme=blueberry" alt="Suvro Biswas's GitHub Contribution" width="65%"/> 
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuvroBiswas93&layout=compact&theme=tokyonight&hide_border=true" alt="Suvro Biswas's GitHub Contribution" width="31.8%" />
   </a>
 </p>
 
 
 <p align="center">
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=SuvroBiswas93&theme=tokyonight&hide_border=true" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuvroBiswas93&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ![Suvro's Graph](https://github-readme-activity-graph.vercel.app/graph?username=SuvroBiswas93&custom_title=Activity%20Graph&bg_color=0D1117&color=18A558&line=18A558&point=18A558&area_color=FFFFFF&title_color=FFFFFF&area=true)
