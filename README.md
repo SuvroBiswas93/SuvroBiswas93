@@ -78,7 +78,7 @@ My goal is to grow as a professional Frontend Engineer and contribute to impactf
 
 ## 🔗 Connect With Me
 
-  <a href="https://www.linkedin.com/in/the-suvro-biswas/" target="_blank">
+  <a href="https://www.linkedin.com/in/suvro-biswas/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Suvro%20Biswas-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="https://suvro-biswas.netlify.app/" target="_blank">
